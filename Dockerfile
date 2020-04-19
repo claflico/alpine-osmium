@@ -1,4 +1,4 @@
-FROM alpine:3.11 as build
+FROM alpine:3.11
 
 ENV LIBOSMIUM_VERSION=2.15.4 \
     OSMIUM_TOOL_VERSION=1.11.1 \
