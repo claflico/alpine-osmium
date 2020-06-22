@@ -11,7 +11,8 @@ This image features:
 
 ## Versions
 
-- `1.11.1`, `latest` [(Dockerfile)](https://github.com/claflico/alpine-osmium/blob/master/Dockerfile)
+- `1.12.0`, `latest` [(Dockerfile)](https://github.com/claflico/alpine-osmium/blob/master/Dockerfile)
+- `1.11.1` [(Dockerfile)](https://github.com/claflico/alpine-osmium/blob/master/Dockerfile)
 
 [See VERSIONS.md for image contents.](VERSIONS.md)
 
